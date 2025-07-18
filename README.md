@@ -16,6 +16,15 @@ A fun little app that generates a band name based on user input.
 A calculator that splits bills and adds a tip — perfect for a dinner out with friends.  
 📚 *Learned:* Data types, type casting, math operations, `f-strings`
 
+### ✅ Day 3 - Treasure Island 🏴‍☠️  
+An interactive, story-based adventure game where your choices decide whether you find the treasure… or meet a dramatic end!  
+
+📚 *Learned:*  
+- `if-else` conditionals  
+- Logical operators (`and`, `or`)  
+- Modulo operator `%`  
+- Writing branching story logic in Python
+
 ---
 
 ## 📌 How to Run
